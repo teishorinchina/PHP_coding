@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="删除资源“project001”" deleteContents="false" description="删除资源“project001”" element1="/project001" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1482720447177"/>&#x0A;<refactoring comment="删除资源“project001”" deleteContents="true" description="删除资源“project001”" element1="/project001" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1482721674289"/>&#x0A;<refactoring comment="将资源“project002”重命名为“project001”" description="重命名资源“project002”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/project002" name="project001" stamp="1482721683212" updateReferences="true"/>
+</session>
